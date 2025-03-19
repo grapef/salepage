@@ -4,3 +4,5 @@
 - [ETSY](https://www.etsy.com/shop/davidgemdesigns)
 - [ETSY Pattern](https://davidgem.shop/)
 - [Shopify](https://davidgemdesign.com/)
+
+- ![Etsy API Integration](https://www.etsy.com/developers/static/images/etsy-developers-logo.png)
